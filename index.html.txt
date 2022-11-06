@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>
+      I'm Feruz Rakhimov
+    </h1>
+    <br>
+    <p>
+     I am <b> 17 years old</b>, I have got many hobbies, but my favourites are <strong>playing tennis and performing guitar melodies</strong>.
+    </p> 
+    <p>
+        I love <strong>Rock'n'Roll</strong>, especially <b>guitar raves.</b>
+    </p>
+    <h2> My current university course includes this list of subjects:
+    <ul>
+        <li>
+            <h4>
+                Physics
+            </h4>
+        </li>
+        <li>
+            <h4>
+                Object oriented programming
+            </h4>
+        </li>
+        <li>
+            <h4>
+                Academic English 
+            </h4>
+        </li>
+        <li>
+            <h4>
+                Academic English Reading
+            </h4>
+        </li>
+        <li>
+            <h4>
+                Calculus
+            </h4>
+        </li>
+        <li>
+            <h4>
+                National Identity
+            </h4>
+        </li>
+        <li>
+            <h4>
+                Physics Experiment 
+            </h4>
+        </li>
+ 	 <li>
+            <h4>
+                Introduction to IT
+            </h4>
+        </li>
+    </ul>
+    <p>
+       I enjoy reading books and tv series. One of my favourite books is "The Count of Monte Cristo" by Alexandre Dumas (père). You can find it's russian version  <a href="https://www.litres.ru/aleksandr-duma/graf-monte-kristo/">here.</a>
+    <br><br>Talking about tv series, I sometimes I like rewatching <a href= "https://www.kinopoisk.ru/series/685246/">"Rick and Morty".</a>
+	You can find all about this series on it's own <a href= "https://rickandmorty.fandom.com/wiki/Rickipedia">Wiki site.</a>
+	<br><br>Another tv series I would like to mention is "Doctor Who". It's great. IMDB <a href="https://www.imdb.com/title/tt0436992/">rates</a> it 8.6/10, great success!
+    </p>
+    <br>
+    <p> That's how I would look like if I became happy: </p> <img src=https://www.google.com/url?sa=i&url="https://www.google.com/url?sa=i&url=https%3A%2F%2Fimgflip.com%2Fmemegenerator%2F220984891%2FFinally-inner-peace&psig=AOvVaw1WsWuMkMOOmXupiymjr4fv&ust=1667841300589000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCODQlpSHmvsCFQAAAAAdAAAAABAc" alt = "Master Oogway finally reaches inner peace." height="500px" width="372px">
+    <p>Same, but sad: </p> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fsoundcloud.com%2Figorlonza%2Flizer-mezhdu-nami-lonza-remix&psig=AOvVaw3oVU3Sc4Hg7x5635KSvzq7&ust=1667841487603000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCKCspu2HmvsCFQAAAAAdAAAAABAI" alt="<<Between Us>> track's cover" height="400px" width="400px">
+    <p>About my neighbour: <br>His habits are wierd. He wokes up at night and creepy things. Ones he asked me if I knew where his daughter is. The fact is that he does not have kids. Brrrr </p>
+</body>
+</html>
